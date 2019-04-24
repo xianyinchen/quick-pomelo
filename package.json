@@ -5,7 +5,7 @@
     "author": "rain1017",
     "private": false,
     "dependencies": {
-        "memdb-client": "~0.5.7",
+        "memdb-client": "xianyinchen/memdb-client",
         "lodash": "~3.10.1",
         "underscore": "~1.8.2",
         "require-directory": "~2.1.1",
